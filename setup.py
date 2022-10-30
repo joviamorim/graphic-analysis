@@ -8,7 +8,7 @@ with open("requirements.txt") as f:
 
 setup(
     name="graphic_analysis",
-    version="0.0.2",
+    version="0.0.3",
     author="João",
     author_email="joaov.amorim02@gmail.com",
     description="Análise de gráfico simples",
