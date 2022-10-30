@@ -1,0 +1,2 @@
+matplotlib.pyplot >= 3.6.1
+pandas
